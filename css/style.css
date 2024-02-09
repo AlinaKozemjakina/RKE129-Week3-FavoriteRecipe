@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Poppins:wght@300&display=swap');
+
+
+body {
+    background-color: rgb(155, 178, 223);
+}
+
+.picture {
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+}
+
+.heading {
+    text-align: center;
+}
+
+.Pancakes-heading {
+    color: rgb(58, 52, 52)
+    font-family 'Open Sans', sans-serif;
+    font-size: 5rem;
+}
+
+.ingredients {
+    color: rgb(122, 122, 122);
+    border: 1px solid black;
+    font-family: 'Poppins', sans-serif;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.ingredients-table {
+    border: 1 px solid black;
+    margin: 0 auto;
+}
+
+.instructions {
+    color: rgb(122, 122, 122);
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+}
+
+.instructions ol {
+    border: 1px solid rgb(48, 46, 46);
+    margin: 0 auto;
+    width: 75%;
+}
+
+.footer {
+    color: rgb(57, 56, 56);
+    text-align: center;
+}
